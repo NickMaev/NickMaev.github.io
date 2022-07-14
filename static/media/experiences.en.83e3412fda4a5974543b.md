@@ -1,5 +1,7 @@
 ## Experiences
 
+<div class="observer animate_delay5">
+
 ### Freelance
 ###### 2007 – 2016
 Project Manager, Web Designer and Full-Stack Web Developer
@@ -12,6 +14,10 @@ Graphic design, promotional banner and logo design. Web design using vector, ras
 
 #### Technologies
 PHP, WordPress, Joomla, Invision Power Board, Datalife Engine, JavaScript, jQuery, Adobe/Macromedia Flash, Adobe Photoshop, Adobe Illustrator, Cinema 4D
+
+</div>
+
+<div class="observer animate_delay5">
 
 ### S4AB
 ###### 07/2013 – 03/2016
@@ -42,6 +48,10 @@ Product and a customer-oriented company that focuses on developing online stores
 
 #### Responsibilities
 Software development using C# and JavaScript. Database development and query optimization. Design of small applications. Customer communication. Working out the functional specifications. Task splitting and estimation. Coding of the site design using Photoshop templates and Razor. jQuery plugin development.
+
+</div>
+
+<div class="observer animate_delay5">
 
 ### StecPoint
 ###### 05/2016 – 07/2020
@@ -100,6 +110,10 @@ The company focuses on SaaS (software as a service) and enterprise software deve
 #### Responsibilities
 Full-stack application development from scratch. Database design and optimization. Integration of third-party platforms. In-app purchase integration. Microservice development. Team management, staff training, code reviewing.
 
+</div>
+
+<div class="observer animate_delay5">
+
 ### ISDK
 ###### 08/2020 – Current
 
@@ -145,3 +159,5 @@ A multinational software company. Focuses on the development of complex business
 
 #### Responsibilities
 Full-stack software and database development from scratch using robust solutions. Query optimization. Technical interviews with potential customers as the company representative. Customer communication during presales and regular projects. Working out the functional specifications. Task splitting and estimation. Integration of third-party platforms. Team management, staff training, code reviewing.
+
+</div>
