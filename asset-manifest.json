@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a31c1d2.css",
-    "main.js": "/static/js/main.80112719.js",
+    "main.css": "/static/css/main.75fef0eb.css",
+    "main.js": "/static/js/main.aa567f4d.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/pattern.svg": "/static/media/pattern.749d6cab70fbcbef8b5b.svg",
     "static/media/pc.svg": "/static/media/pc.5ffa094dfeb426c8c9ef2431e6f68b6b.svg",
     "static/media/experiences.en.md": "/static/media/experiences.en.83e3412fda4a5974543b.md",
-    "static/media/cap.svg": "/static/media/cap.7134f8018d594850df015c387a962c7f.svg",
+    "static/media/skype.svg": "/static/media/skype.76476271e71e68244a29.svg",
+    "static/media/cap.svg": "/static/media/cap.6f15217c0a3011ba8a445e876930bb44.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.8f3ee2e4bce13f452203.svg",
+    "static/media/telegram.svg": "/static/media/telegram.87e15f27ceeb1458500b.svg",
+    "static/media/email.svg": "/static/media/email.0d678cdd35d970f2d4a2.svg",
+    "static/media/github.svg": "/static/media/github.fc0ffe042a9582d2a394.svg",
     "index.html": "/index.html",
     "static/media/education.en.md": "/static/media/education.en.499dc3dc369b33f2e840.md",
-    "main.0a31c1d2.css.map": "/static/css/main.0a31c1d2.css.map",
-    "main.80112719.js.map": "/static/js/main.80112719.js.map",
+    "main.75fef0eb.css.map": "/static/css/main.75fef0eb.css.map",
+    "main.aa567f4d.js.map": "/static/js/main.aa567f4d.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a31c1d2.css",
-    "static/js/main.80112719.js"
+    "static/css/main.75fef0eb.css",
+    "static/js/main.aa567f4d.js"
   ]
 }

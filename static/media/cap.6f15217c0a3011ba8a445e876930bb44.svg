@@ -18,7 +18,4 @@
   <path id="path1" d="M8.281 13.063L8 17.997c-.125 2.203 4.484 4 10 4s10.125-1.797 10-4l-.281-4.936-8.969 2.829c-.25.078-.5.107-.75.107s-.5-.03-.75-.107l-8.969-2.829z" style="animation:lcimgRrn_draw 948ms ease-out 0ms forwards" fill="none" fill-opacity="1" stroke="url('#logo-gradient')" stroke-opacity="1" stroke-dasharray="54 56" stroke-dashoffset="55"/>
   <path id="path2" d="M7.656 10.766l-2.11-.657c-.968 1.36-1.436 3.329-1.53 5.157A2.006 2.006 0 003 16.998c0 .703.36 1.315.906 1.674L3 25.437a.511.511 0 00.5.563h3a.512.512 0 00.5-.563l-.906-6.765c.547-.36.906-.971.906-1.674 0-.734-.39-1.357-.984-1.701.125-2.11.75-3.828 1.64-4.531z" style="animation:lcimgRrn_draw 706ms ease-out 948ms forwards" fill="none" fill-opacity="1" stroke="url('#logo-gradient')" stroke-opacity="1" stroke-dasharray="40 42" stroke-dashoffset="41"/>
   <path id="path3" d="M18 2c-.047 0-.093 0-.156.016l-17.5 5.5A.523.523 0 000 8c0 .218.14.406.344.484l5.203 1.625 2.11.657 10.187 3.218c.062.016.109.016.156.016s.093 0 .156-.016l17.5-5.5A.522.522 0 0036 8a.523.523 0 00-.344-.484l-17.5-5.5C18.094 2 18.047 2 18 2z" style="animation:lcimgRrn_draw 1344ms ease-out 1655ms forwards" fill="none" fill-opacity="1" stroke="url('#logo-gradient')" stroke-opacity="1" stroke-dasharray="77 79" stroke-dashoffset="78"/>
-  <style data-made-with="vivus-instant">
-    @keyframes lcimgRrn_draw{to{stroke-dashoffset:0}}@keyframes lcimgRrn_fade{0%,94.44444444444444%{stroke-opacity:1}to{stroke-opacity:0}}
-  </style>
 </svg>
