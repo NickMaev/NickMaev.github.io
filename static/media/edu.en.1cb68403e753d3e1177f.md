@@ -1,5 +1,5 @@
 ## Education
-###### 09/2007 – 07/2013
+###### <div class='dateRange'>09/2007 – 07/2013</div>
 
 <div class="observer">
 
