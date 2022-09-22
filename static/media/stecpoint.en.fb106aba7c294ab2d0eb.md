@@ -22,7 +22,7 @@ The company focuses on SaaS (software as a service) and enterprise software deve
 ##### Mini ERP system
 ###### <div class='dateRange'>09/2018 – 12/2018</div>
 
-> Was developed for the gas mining company. Aimed to control internal purchases.
+> Has been developed for the gas mining company. Aimed to control internal purchases.
 >
 > **Role:** Lead Full-Stack Developer
 >

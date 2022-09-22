@@ -8,8 +8,11 @@ Product and a customer-oriented company that focuses on developing online stores
 
 #### Projects
 ##### Online shops
+###### <div class='dateRange'>07/2013 – 03/2016</div>
 ##### Auto parts classifier
+###### <div class='dateRange'>12/2013 – 03/2016</div>
 ##### Street address classifier
+###### <div class='dateRange'>02/2014 – 03/2014</div>
 
 > **Role:** Full-Stack Developer
 >
@@ -18,6 +21,7 @@ Product and a customer-oriented company that focuses on developing online stores
 > **Stack:** ASP.NET MVC3-5, Razor, MS SQL Server, MongoDB, Pure JavaScript, jQuery
 
 ##### Windows Mobile applications for interaction with warehouses and online shops
+###### <div class='dateRange'>09/2015 – 12/2015</div>
 
 > **Role:** Software Designer, Full Stack Engineer
 >

@@ -22,7 +22,7 @@
 ##### Мини ERP-система
 ###### <div class='dateRange'>09/2018 – 12/2018</div>
 
-> Was developed for the gas mining company. Aimed to control internal purchases.
+> Система контроля внутренних закупок. Разработана для газодобывающей компании.
 >
 > **Роль:** Ведущий фулл-стек разработчик
 >

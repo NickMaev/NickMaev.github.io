@@ -33,7 +33,7 @@ A multinational software company. Focuses on the development of complex business
 ##### Air cargo booking system
 ###### <div class='dateRange'>08/2020 – 09/2022</div>
 
-> B2B platform is purposed to automate air freight processes. Allows to search for advantageous cargo transportation tariffs, create, edit and track air waybills. Was developed for a large transnational contractor.
+> B2B platform is purposed to automate air freight processes. Allows to search for advantageous cargo transportation tariffs, create, edit and track air waybills. Has been developed for a large transnational contractor.
 >
 > **Role:** Lead Full-Stack Engineer
 >
