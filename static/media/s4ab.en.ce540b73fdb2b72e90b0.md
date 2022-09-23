@@ -30,4 +30,4 @@ Product and a customer-oriented company that focuses on developing online stores
 > **Stack:** .NET Compact Framework, WinForms, MS SQL Server
 
 #### Responsibilities
-Software development using C# and JavaScript. Database development and query optimization. Design of small applications. Customer communication. Working out the functional specifications. Task splitting and estimation. Coding of the site design using Photoshop templates and Razor. jQuery plugin development.
+Full-stack software development. Database development and query optimization. Design of small applications. Customer communication. Working out the functional specifications. Task splitting and estimation. Coding of the site design using Photoshop templates and Razor. jQuery plugin development.
