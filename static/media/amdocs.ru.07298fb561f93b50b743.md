@@ -17,7 +17,7 @@
 >
 > **Размер команды:** 10+
 >
-> **Стек:** ASP.NET Core, PostgreSQL, Oracle, Docker, Docker Compose, NDA
+> **Стек:** ASP.NET Core, PostgreSQL, Oracle, Docker, Docker Compose, Azure, Linux, NDA
 
 #### Обязанности
 Разработка серверного программного обеспечения и баз данных. Сбор функциональных требований. Разделение и оценка задач.

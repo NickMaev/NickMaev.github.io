@@ -17,7 +17,7 @@ A multinational corporation that provides software & services to communications 
 >
 > **Team size:** 10+
 >
-> **Stack:** ASP.NET Core, PostgreSQL, Oracle, Docker, Docker Compose, NDA
+> **Stack:** ASP.NET Core, PostgreSQL, Oracle, Docker, Docker Compose, Azure, Linux, NDA
 
 #### Responsibilities
 Backend software and database development. Working out the functional specifications. Task splitting and estimation.
