@@ -1,5 +1,5 @@
 ### Amdocs
-###### <div class='dateRange'>08/2020 – Present</div>
+###### <div class='dateRange'>11/2022 – Н.В.</div>
 
 Ведущий инженер-программист
 

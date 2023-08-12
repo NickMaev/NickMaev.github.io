@@ -9,7 +9,7 @@ A multinational corporation that provides software & services to communications 
 #### Projects
 
 ##### Telecommunications
-###### <div class='dateRange'>08/2020 – Present</div>
+###### <div class='dateRange'>11/2022 – Present</div>
 
 > NDA
 >
